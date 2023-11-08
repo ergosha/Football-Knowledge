@@ -1,5 +1,4 @@
 # Football-Knowledge
-This project is for 
 
 This app has been only been tested with expo and android device, so please use android.
 The app should work after executing the command "npm install" in the root folders terminal and starting the app using "npm start". Open the app using the Expo app on you device.
